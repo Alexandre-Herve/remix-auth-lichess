@@ -3,7 +3,7 @@
   "description": "Remix Auth strategy for lichess.org",
   "author": "Alexandre Hervé",
   "repository": "https://github.com/Alexandre-Herve/remix-auth-lichess",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "main": "./build/index.js",
   "types": "./build/index.d.ts",
   "scripts": {

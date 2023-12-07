@@ -14,7 +14,7 @@
 ### Installation
 
 ```bash
-npm add remix-auth-lichess
+npm install remix-auth-lichess
 ```
 
 ### Usage
