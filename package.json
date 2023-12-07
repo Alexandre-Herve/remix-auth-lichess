@@ -1,5 +1,8 @@
 {
-  "name": "remix-auth-strategy-template",
+  "name": "remix-auth-lichess",
+  "description": "Remix Auth strategy for lichess.org",
+  "author": "Alexandre Hervé",
+  "repository": "https://github.com/Alexandre-Herve/remix-auth-lichess",
   "version": "0.0.0",
   "main": "./build/index.js",
   "types": "./build/index.d.ts",
@@ -52,6 +55,7 @@
     "typescript": "^4.3.5"
   },
   "dependencies": {
-    "remix-auth": "^3.0.0"
+    "remix-auth": "^3.0.0",
+    "remix-auth-oauth2": "^1.11.0"
   }
 }
