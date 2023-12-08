@@ -1,6 +1,9 @@
 # LichessStrategy
 
-<!-- Description -->
+❌ Not ready
+
+Lichess OAuth requires PKCE, which is not implemented there. See https://github.com/sergiodxa/remix-auth-oauth2/issues/24
+
 
 ## Supported runtimes
 
